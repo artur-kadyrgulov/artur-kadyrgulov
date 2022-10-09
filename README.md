@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @artur-kadyrgulov.
-- 👀 I’m interested in Golang.
-- 🌱 I’m currently learning Golang.
+- 👀 I’m interested in ABAP, NodeJS.
+- 🌱 I’m currently learning NodeJS.
 - 📫 Contact me via Telegram, looking for @Archi00020
+- 📫 Contact me via Mail, looking for arturkadyrgulov@gmail.com
